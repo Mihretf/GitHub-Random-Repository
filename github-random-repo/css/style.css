@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    background: #f4f4f4;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  select,
+  button {
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    font-size: 1rem;
+  }
+  
+  #repo-container {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  #status {
+    color: #555;
+    margin-top: 1rem;
+  }
+  
